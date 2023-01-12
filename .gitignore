@@ -1,0 +1,10 @@
+.vscode/*
+!.vscode/c_cpp_properties.json
+include/*
+!*.gitkeep
+*.out
+*.exe
+*.so
+*.so.*
+*.dll
+*.dylib

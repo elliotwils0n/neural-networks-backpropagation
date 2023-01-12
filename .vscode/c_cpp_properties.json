@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "common",
+			"cStandard": "c11",
+			"cppStandard": "c++11",
+			"includePath": [
+				"${workspaceFolder}/src",
+				"${workspaceFolder}/include"
+			]
+		}
+	],
+	"version": 4
+}
